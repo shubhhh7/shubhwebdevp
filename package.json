@@ -1,0 +1,17 @@
+{
+  "name": "shubh-dance-acadamy",
+  "version": "1.0.0",
+  "description": "this is popular website for dance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "pub": "^0.2.0",
+    "pug": "^3.0.0"
+  }
+}
